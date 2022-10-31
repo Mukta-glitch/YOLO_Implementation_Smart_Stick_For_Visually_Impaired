@@ -1,5 +1,9 @@
 # YOLO_Implementation_Smart_Stick_For_Visually_Impaired
-
+### Overview-
+The system basically performs two main tasks i.e obstacle detection and
+image recognition. Obstacle Detection identities obstacles in users route and
+guides the user to avoid it. Image recognition helps visually impaired to get
+brief description of its surrounding.
 ### Algorithm
 
 #### Object Detection
